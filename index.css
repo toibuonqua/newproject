@@ -1,3 +1,10 @@
 body{
     background-color: gray;
 }
+.Head {
+    display: flex;
+    font-size: 200px;
+    font-family: 'Times New Roman';
+    color: yellow;
+    justify-content: center;
+}
